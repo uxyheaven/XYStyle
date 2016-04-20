@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash+x
 
 CURRENT_DIR=$(cd "$(dirname "$0")"; pwd)
 PLUGIN_DIR="${HOME}/Library/Application Support/Developer/Shared/Xcode/Plug-ins/"
